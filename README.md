@@ -8,7 +8,7 @@ Doherty, K., Theobald, D.M., Bradford, J.B., Wiechman, L.A., Bedrosian, G., Boyd
 
 ScienceBase records.
 
-Sagebrush Ecosystem Integrity v1 30-m GeoTIFF [datasets]([url](https://drive.google.com/drive/folders/1CdiUZkU2-4Kj8P7e2Mly3QDGC1Iqmwm0)).
+Sagebrush Ecosystem Integrity v1 30-m GeoTIFF [x]([url](https://drive.google.com/drive/folders/1CdiUZkU2-4Kj8P7e2Mly3QDGC1Iqmwm0?usp=share_link)).
 
 Google Earth Engine code to access 90 m assets [here]([url](https://code.earthengine.google.com/d0d1a32b087395959c5f750bc59cf591)).
 
