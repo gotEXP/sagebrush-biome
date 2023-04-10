@@ -1,6 +1,6 @@
 # sagebrush-biome
 
-Connectivity sub-team folder [here]([url](https://drive.google.com/drive/folders/1l8NaRSp1cc8pyF0tBLTcW-b5nZwj1v7e)).
+This repo contains dataset and codes for the Sagebrush Ecosystem Landscape Conservation Design.
 
 ### SEI version 3 
 
@@ -8,6 +8,7 @@ Sagebrush Ecosystem Integrity v3 here (based on RAP v3 and LCMAP v5 datasets) --
 
 Google Earth Engine code to access 90 m assets [link]([https://code.earthengine.google.com/d0d1a32b087395959c5f750bc59cf591).
 
+Connectivity sub-team folder [here]([url](https://drive.google.com/drive/folders/1l8NaRSp1cc8pyF0tBLTcW-b5nZwj1v7e)).
 
 - Note, there is no version 2, jumped to v3 to be consistent with RAP version.
 
