@@ -12,7 +12,7 @@ Sagebrush Ecosystem Integrity v1 30-m GeoTIFF [datasets]([url](https://drive.goo
 
 Google Earth Engine code to access 90 m assets [here]([url](https://code.earthengine.google.com/d0d1a32b087395959c5f750bc59cf591)).
 
-
+ 
 ### SEI version 3 
 
 Sagebrush Ecosystem Integrity v3 here (based on RAP v3 and LCMAP v5 datasets) -- not for public use!
