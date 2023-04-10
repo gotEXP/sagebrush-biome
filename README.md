@@ -4,11 +4,11 @@ This repo contains dataset and codes for the Sagebrush Ecosystem Landscape Conse
 
 ### SEI version 3 
 
-Sagebrush Ecosystem Integrity v3 here (based on RAP v3 and LCMAP v5 datasets) -- not for public use!
+Sagebrush Ecosystem Integrity v3 GeoTIFFs (to be completed) (based on RAP v3 and LCMAP v5 datasets) -- not for public use!
 
-Google Earth Engine code to access 90 m assets [link]([https://code.earthengine.google.com/d0d1a32b087395959c5f750bc59cf591).
+Google Earth Engine code to access 90 m assets [link](https://code.earthengine.google.com/ca6e5ece9dbfb5da6b0d033636af1e4f).
 
-Connectivity sub-team folder [here]([url](https://drive.google.com/drive/folders/1l8NaRSp1cc8pyF0tBLTcW-b5nZwj1v7e)).
+Connectivity sub-team folder [here](https://drive.google.com/drive/folders/1l8NaRSp1cc8pyF0tBLTcW-b5nZwj1v7e).
 
 - Note, there is no version 2, jumped to v3 to be consistent with RAP version.
 
